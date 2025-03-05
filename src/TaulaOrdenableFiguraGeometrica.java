@@ -1,6 +1,9 @@
-// Autor: Rafel Dalmau
-// Data: 26/02/2025
-// Descripció: Classe per gestionar TaulaOrdenable de figures geomètriques.
+/**
+ * 
+ * @author Rafel Dalmau
+ * @version 1.0 26/02/2025
+ * 
+ */
 
 public class TaulaOrdenableFiguraGeometrica extends TaulaOrdenable<FiguraGeometrica> {
     public TaulaOrdenableFiguraGeometrica(int capacitat) {

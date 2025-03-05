@@ -1,6 +1,9 @@
-// Autor: Rafel Dalmau
-// Data: 26/02/2025
-// Descripció: Classe genèrica per gestionar taules ordenables.
+/**
+ * 
+ * @author Rafel Dalmau
+ * @version 1.0 26/02/2025
+ * 
+ */
 
 public class TaulaOrdenable<T extends Comparable<T>> {
     private T[] taula;

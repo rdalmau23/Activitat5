@@ -1,6 +1,9 @@
-// Autor: Rafel Dalmau
-// Data: 26/02/2025
-// Descripció: Classe abstracta per a figures geomètriques.
+/**
+ * 
+ * @author Rafel Dalmau
+ * @version 1.0 26/02/2025
+ * 
+ */
 
 public abstract class FiguraGeometrica implements Comparable<FiguraGeometrica> {
     public abstract double area();
