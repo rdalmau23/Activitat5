@@ -1,3 +1,5 @@
+import Figures.FiguraGeometrica;
+
 /**
  * 
  * @author Rafel Dalmau

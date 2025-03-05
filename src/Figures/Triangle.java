@@ -1,3 +1,12 @@
+/**
+ * 
+ * @author Rafel Dalmau
+ * @version 1.0 26/02/2025
+ * 
+ */
+
+package Figures;
+
 public class Triangle extends FiguraGeometrica {
     private double base;
     private double altura;

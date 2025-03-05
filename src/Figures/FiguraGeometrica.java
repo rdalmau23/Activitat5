@@ -1,3 +1,4 @@
+package Figures;
 /**
  * 
  * @author Rafel Dalmau

@@ -1,3 +1,5 @@
+import Figures.*;
+
 /**
  * 
  * @author Rafel Dalmau
@@ -10,8 +12,8 @@ public class ProvaTaulaOrdenableFiguraGeometrica03 {
         TaulaOrdenableFiguraGeometrica taula = new TaulaOrdenableFiguraGeometrica(50);
         
         //taula.afegir(new Rectangle(4, 5));
-        //taula.afegir(new Cercle(3));
-        //taula.afegir(new Cercle(5));
+        taula.afegir(new Cercle(3));
+        taula.afegir(new Cercle(5));
         taula.afegir(new Triangle(3, 4));
         taula.afegir(new Triangle(6, 8));
         
